@@ -1,0 +1,41 @@
+{
+  "name": "web_project_around_express",
+  "version": "1.0.0",
+  "description": "API para o projeto Around — Express + Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "lint": "npx eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-ribeiro-fs/web_project_around_express.git"
+  },
+  "keywords": [],
+  "author": "Michael Ribeiro",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/michael-ribeiro-fs/web_project_around_express/issues"
+  },
+  "homepage": "https://github.com/michael-ribeiro-fs/web_project_around_express#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "celebrate": "^16.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^4.22.2",
+    "express-winston": "^4.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.0",
+    "validator": "^13.15.35",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.32.0",
+    "nodemon": "^3.1.14"
+  }
+}
