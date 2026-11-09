@@ -1,18 +1,12 @@
-# Around The U.S. — Full Stack
+# Around The U.S. - Full Stack
 
 Aplicação web completa que combina um front-end em React com um back-end em Node.js, permitindo o cadastro, a autenticação e o gerenciamento de cartões de lugares de forma persistente e segura.
 
-> ⚠️ **ATENÇÃO — LINK DE DEPLOY:** substitua o texto abaixo pelo endereço real da aplicação publicada.
+🔗 **Deploy:** [https://web-project-api-full-opal.vercel.app](https://web-project-api-full-opal.vercel.app)
 
-🔗 **Deploy:** [COLOQUE AQUI O LINK DE DEPLOY](https://seu-link-de-deploy.com)
+![Preview do projeto](./frontend/public/preview.png)
 
-> ⚠️ **ATENÇÃO — PRINT DO PROJETO:** adicione uma imagem na pasta do repositório (ex.: `docs/screenshot.png`) e ajuste o caminho abaixo.
-
-![Print do projeto Around The U.S.](COLOQUE-AQUI-O-CAMINHO-OU-URL-DA-IMAGEM)
-
-> ⚠️ **ATENÇÃO — VÍDEO NO YOUTUBE:** substitua o link abaixo pela URL do vídeo que explica o projeto.
-
-🎥 **Vídeo explicativo:** [COLOQUE AQUI A URL DO VÍDEO NO YOUTUBE](https://www.youtube.com/watch?v=SEU_VIDEO_ID)
+🎥 **Vídeo explicativo:** [Assista ao vídeo de demonstração](https://youtu.be/G_iTCpJwTTo)
 
 ---
 
